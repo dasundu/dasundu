@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dasun Dushmantha</h1>
 <h3 align="center">A passionate software developer from Srilanka</h3>
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **springboot**
 
 - 💬 Ask me about **HTML,CSS,SQL,PHP**
 
