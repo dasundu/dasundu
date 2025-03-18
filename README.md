@@ -64,15 +64,15 @@
 <!-- GitHub Stats Section -->
 <h2 align="center">📊 My GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dasundushmantha&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Dasun's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasundushmantha&layout=compact&theme=github_dark" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dasundu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Dasun's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasundu&layout=compact&theme=github_dark" alt="Top Languages" height="170" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasundushmantha&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasundu&theme=dark" alt="GitHub Streak" />
 </div>
 <!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dasundushmantha&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dasundu&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 ---
 
