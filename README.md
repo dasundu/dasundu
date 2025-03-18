@@ -1,5 +1,5 @@
  <!--- About Me GIF (start) -->
-  <img align="center" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="About Me  GIF" width="15%"/>
+   <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="About Me GIF" width="15%" style="display: block; margin: auto;"/>
   <br><br>
   <!--- About Me GIF (end) -->
 <h1 align="center">👋 Hi, I'm Dasun Dushmantha</h1>
