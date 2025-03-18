@@ -61,20 +61,33 @@
   
 </div>
 
-<!-- GitHub Stats Section -->
-<h2 align="center">📊 My GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dasundu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Dasun's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasundu&layout=compact&theme=github_dark" alt="Top Languages" height="170" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasundu&theme=dark" alt="GitHub Streak" />
-</div>
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dasundu&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</div>
----
+<!--- Stats & Trophy (start) -->
+<p align="center">
+  <!--- Stats (start) -->
+  <table align="center">
+    <tr border="none">
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=dasundu&theme=dark&show_icons=true&count_private=true" />
+        <br><br>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=dasundu&theme=dark&hide_border=false" /> 
+      </td>
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dasundu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+      </td>
+    </tr>
+  </table>
+  <!--- Stats (end) -->
+
+  <!--- Trophy (start) -->
+  <div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=dasundu&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+  </div>
+  <!--- Trophy (end) -->
+</p>
+<!--- Stats & Trophy (end) -->
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dasundushmantha&color=blue" alt="Profile Views" />
