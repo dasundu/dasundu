@@ -11,8 +11,6 @@
 ## 👨‍💻 About Me
 
 - 🎓 Software Engineering Undergraduate
-- 🌱 Currently learning **Spring Boot**  
-- 💬 Ask me about **HTML, CSS, SQL, PHP**
 - 🔭 Working on building my portfolio with innovative projects
 - 🌟 Passionate about creating clean, efficient, and user-friendly applications
 - 📚 Constantly expanding my knowledge in software development
@@ -50,6 +48,7 @@
   
   ### Database
   ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   
   ### Design
   ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
