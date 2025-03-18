@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Dasun Dushmantha
+<h1 align="center">👋 Hi, I'm Dasun Dushmantha</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=500&lines=Software+Engineering+Undergraduate;Passionate+Developer+from+Sri+Lanka;Always+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=500&lines=Software+Engineering+Undergraduate;Passionate+Developer+from+Sri+Lanka;MERN+Stack+Developer;Always+learning+new+technologies" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -11,7 +11,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 Software Engineering Undergraduate
-- 🔭 Working on building my portfolio with innovative projects
+- 💻 Specialized in MERN Stack Development
+- 🔭 Working on various development projects
 - 🌟 Passionate about creating clean, efficient, and user-friendly applications
 - 📚 Constantly expanding my knowledge in software development
 
@@ -40,8 +41,13 @@
   ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
   ![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
   
+  ### MERN Stack
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  
   ### Frameworks & Libraries
-  ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
   ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -59,16 +65,6 @@
   ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
   ![iOS](https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=ios&logoColor=white)
   
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dasundushmantha&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasundushmantha&theme=tokyonight" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasundushmantha&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
