@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering Undergraduate
+- 🎓 Software Engineering Undergraduate at SLIIT
 - 🔭 Working on various development projects
 - 🌟 Passionate about creating clean, efficient, and user-friendly applications
 - 📚 Constantly expanding my knowledge in software development
