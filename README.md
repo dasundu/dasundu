@@ -85,8 +85,6 @@
 ### 📈 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dasundu&theme=radical)
 
-### 🏆 Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=dasundu&theme=onedark)
 
 
 </div>
