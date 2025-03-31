@@ -72,6 +72,31 @@
 
 ---
 
+## 📊 GitHub Stats & Badges
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dasundushmantha&color=blue" alt="Profile Views" />
+
+### 🔥 GitHub Stats
+![Dasun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dasundu&show_icons=true&theme=radical&count_private=true&hide=stars)
+
+### 💻 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dasundu&layout=compact&theme=radical)
+
+### 📈 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dasundu&theme=radical)
+
+### 🏆 Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=dasundu&theme=onedark)
+
+### 📊 Profile Badges
+![Followers](https://img.shields.io/github/followers/dasundu?style=social)
+![Stars](https://img.shields.io/github/stars/dasundu?style=social)
+![Commits](https://img.shields.io/github/commit-activity/y/dasundu/your-repo-name)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dasundu&color=blue" alt="Profile Views" />
 </div>
