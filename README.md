@@ -11,54 +11,6 @@
   🌍 Exploring the world of technology, one line of code at a time
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <!-- GitHub Stats Card -->
-    <img src="https://github-readme-stats.vercel.app/api?username=dasundushmantha&show_icons=true&theme=radical" alt="Dasun's GitHub Stats" height="170" />
-    
-    <!-- Most Used Languages Card -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasundushmantha&layout=compact&theme=radical" alt="Most Used Languages" height="170" />
-  </div>
-  
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasundushmantha&theme=radical" alt="GitHub Streak" />
-  
-  <!-- GitHub Activity Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=dasundushmantha&theme=react-dark" alt="Contribution Graph" width="100%" />
-</div>
-
-<!-- GitHub Metrics Dashboard -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <div align="center">
-          <h3>Dasun's GitHub Stats</h3>
-          <p>⭐ Total Stars Earned: <strong><!-- Replace with your actual count --></strong></p>
-          <p>📊 Total Commits: <strong><!-- Replace with your actual count --></strong></p>
-          <p>🔀 Total PRs: <strong><!-- Replace with your actual count --></strong></p>
-          <p>❓ Total Issues: <strong><!-- Replace with your actual count --></strong></p>
-          <p>📁 Contributed to (last year): <strong><!-- Replace with your actual count --></strong></p>
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <h3>Most Used Languages</h3>
-          <div style="text-align: left; margin-top: 10px;">
-            <p>🔵 JavaScript: <strong><!-- Replace with your actual % --></strong></p>
-            <p>🟢 HTML: <strong><!-- Replace with your actual % --></strong></p>
-            <p>🟠 CSS: <strong><!-- Replace with your actual % --></strong></p>
-            <p>🔴 Java: <strong><!-- Replace with your actual % --></strong></p>
-            <p>🟣 Python: <strong><!-- Replace with your actual % --></strong></p>
-          </div>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## 👨‍💻 About Me
 - 🎓 Software Engineering Undergraduate at SLIIT
 - 🔭 Working on various development projects
@@ -108,6 +60,54 @@
   
 </div>
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dasundushmantha&color=blue" alt="Profile Views" />
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <!-- GitHub Stats Card -->
+    <img src="https://github-readme-stats.vercel.app/api?username=dasundush&show_icons=true&theme=radical" alt="Dasun's GitHub Stats" height="170" />
+    
+    <!-- Most Used Languages Card -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasundush&layout=compact&theme=radical" alt="Most Used Languages" height="170" />
+  </div>
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasundush&theme=radical" alt="GitHub Streak" />
+  
+  <!-- GitHub Activity Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=dasundush&theme=react-dark" alt="Contribution Graph" width="100%" />
+</div>
+
+<!-- GitHub Metrics Dashboard -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <div align="center">
+          <h3>Dasun's GitHub Stats</h3>
+          <p>⭐ Total Stars Earned: <strong><!-- Replace with your actual count --></strong></p>
+          <p>📊 Total Commits: <strong><!-- Replace with your actual count --></strong></p>
+          <p>🔀 Total PRs: <strong><!-- Replace with your actual count --></strong></p>
+          <p>❓ Total Issues: <strong><!-- Replace with your actual count --></strong></p>
+          <p>📁 Contributed to (last year): <strong><!-- Replace with your actual count --></strong></p>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <h3>Most Used Languages</h3>
+          <div style="text-align: left; margin-top: 10px;">
+            <p>🔵 JavaScript: <strong><!-- Replace with your actual % --></strong></p>
+            <p>🟢 HTML: <strong><!-- Replace with your actual % --></strong></p>
+            <p>🟠 CSS: <strong><!-- Replace with your actual % --></strong></p>
+            <p>🔴 Java: <strong><!-- Replace with your actual % --></strong></p>
+            <p>🟣 Python: <strong><!-- Replace with your actual % --></strong></p>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dasundush&color=blue" alt="Profile Views" />
 </div>
