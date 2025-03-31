@@ -94,5 +94,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dasundu&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=dasundushmantha&color=blue" alt="Profile Views" />
 </div>
