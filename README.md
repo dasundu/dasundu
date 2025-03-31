@@ -1,27 +1,71 @@
- <!--- About Me GIF (start) -->
- <p align="center">
-   <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="About Me GIF" width="10%" style="display: block; margin: auto;"/>
-  <br><br></p>
-  <!--- About Me GIF (end) -->
+<!--- About Me GIF (start) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="About Me GIF" width="10%" style="display: block; margin: auto;"/>
+ <br><br></p>
+<!--- About Me GIF (end) -->
 <h1 align="center">👋 Hi, I'm Dasun Dushmantha</h1>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=500&lines=Software+Engineering+Undergraduate;Passionate+Developer+from+Sri+Lanka;Always+learning+new+technologies" alt="Typing SVG" />
 </div>
-
 <p align="center">
   🌍 Exploring the world of technology, one line of code at a time
 </p>
 
-## 👨‍💻 About Me
+## 📊 GitHub Stats
 
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <!-- GitHub Stats Card -->
+    <img src="https://github-readme-stats.vercel.app/api?username=dasundushmantha&show_icons=true&theme=radical" alt="Dasun's GitHub Stats" height="170" />
+    
+    <!-- Most Used Languages Card -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasundushmantha&layout=compact&theme=radical" alt="Most Used Languages" height="170" />
+  </div>
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasundushmantha&theme=radical" alt="GitHub Streak" />
+  
+  <!-- GitHub Activity Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=dasundushmantha&theme=react-dark" alt="Contribution Graph" width="100%" />
+</div>
+
+<!-- GitHub Metrics Dashboard -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <div align="center">
+          <h3>Dasun's GitHub Stats</h3>
+          <p>⭐ Total Stars Earned: <strong><!-- Replace with your actual count --></strong></p>
+          <p>📊 Total Commits: <strong><!-- Replace with your actual count --></strong></p>
+          <p>🔀 Total PRs: <strong><!-- Replace with your actual count --></strong></p>
+          <p>❓ Total Issues: <strong><!-- Replace with your actual count --></strong></p>
+          <p>📁 Contributed to (last year): <strong><!-- Replace with your actual count --></strong></p>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <h3>Most Used Languages</h3>
+          <div style="text-align: left; margin-top: 10px;">
+            <p>🔵 JavaScript: <strong><!-- Replace with your actual % --></strong></p>
+            <p>🟢 HTML: <strong><!-- Replace with your actual % --></strong></p>
+            <p>🟠 CSS: <strong><!-- Replace with your actual % --></strong></p>
+            <p>🔴 Java: <strong><!-- Replace with your actual % --></strong></p>
+            <p>🟣 Python: <strong><!-- Replace with your actual % --></strong></p>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 👨‍💻 About Me
 - 🎓 Software Engineering Undergraduate at SLIIT
 - 🔭 Working on various development projects
 - 🌟 Passionate about creating clean, efficient, and user-friendly applications
 - 📚 Constantly expanding my knowledge in software development
 
 ## 📫 Contact
-
 <div align="center">
   
   [![Email](https://img.shields.io/badge/Email-dasunathauda99%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:dasunathauda99@gmail.com)
@@ -30,7 +74,6 @@
 </div>
 
 ## 🛠️ Tech Stack
-
 <div align="center">
   
   ### Languages & Technologies
