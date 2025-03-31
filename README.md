@@ -88,10 +88,6 @@
 ### 🏆 Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=dasundu&theme=onedark)
 
-### 📊 Profile Badges
-![Followers](https://img.shields.io/github/followers/dasundu?style=social)
-![Stars](https://img.shields.io/github/stars/dasundu?style=social)
-![Commits](https://img.shields.io/github/commit-activity/y/dasundu/your-repo-name)
 
 </div>
 
