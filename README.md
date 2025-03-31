@@ -65,17 +65,17 @@
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <!-- GitHub Stats Card -->
-    <img src="https://github-readme-stats.vercel.app/api?username=dasundush&show_icons=true&theme=radical" alt="Dasun's GitHub Stats" height="170" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dasundu&show_icons=true&theme=radical" alt="Dasun's GitHub Stats" height="170" />
     
     <!-- Most Used Languages Card -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasundush&layout=compact&theme=radical" alt="Most Used Languages" height="170" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasundu&layout=compact&theme=radical" alt="Most Used Languages" height="170" />
   </div>
   
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasundush&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasundu&theme=radical" alt="GitHub Streak" />
   
   <!-- GitHub Activity Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=dasundush&theme=react-dark" alt="Contribution Graph" width="100%" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=dasundu&theme=react-dark" alt="Contribution Graph" width="100%" />
 </div>
 
 <!-- GitHub Metrics Dashboard -->
