@@ -72,7 +72,7 @@
 
 ---
 
-## 📊 GitHub Stats & Badges
+### 📊 GitHub Stats & Badges
 
 <div align="center">
 
