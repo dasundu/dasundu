@@ -83,8 +83,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dasundu&layout=compact&theme=radical)
 
 ### 📈 GitHub Streak
-![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com/?user=dasundu&theme=radical](https://github-readme-streak-stats.herokuapp.com/?user=dasundu&theme=radical
-))
+![GitHub Streak](https://streak-stats.demolab.com/?user=dasundu&theme=radical)
 
 
 
