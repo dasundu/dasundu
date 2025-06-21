@@ -29,7 +29,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-dasunathauda99%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:dasunathauda99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dasun%20Dushmantha-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dasun-dushmantha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dasun%20Dushmantha-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dasun-athauda)
 
 </div>
 
