@@ -50,12 +50,6 @@
 ### 🗄️ Database  
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🔐 Authentication  
-![JWT](https://img.shields.io/badge/JWT-%2300AEEF.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### 📱 Mobile Development  
-![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white) 
-
 ### 🧪 Testing & API Tools  
 ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white) ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-%23E33332.svg?style=for-the-badge&logo=testing-library&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
