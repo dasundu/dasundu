@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm Dasun Athauda</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=500&lines=AI+Engineer+Intern;Software+Engineering+Undergraduate;Building+with+React+Native+%26+n8n;Exploring+Generative+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=500&lines=AI+Engineer+Intern;Software+Engineering+Undergraduate;Building+Agents+%26+Automation;Learning+DevOps+%26+Cloud" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -16,10 +16,10 @@
 
 ## 👨‍💻 About Me
 - 🎓 **Software Engineering Undergraduate at SLIIT**
-- 🤖 **AI Engineer Intern** exploring LLMs and Automation
-- 🔭 **Working on** integrating AI agents into web and mobile applications
-- 📱 **Expanding skills** in Mobile Development with React Native
-- 📚 **Passionately learning** about Generative AI, RAG pipelines, and Workflow Automation
+- 🤖 **AI Engineer Intern** working with Agents and Automation
+- 🔭 **Working on** integrating AI agents into web applications
+- ☁️ **Currently learning** DevOps and Cloud technologies
+- 📚 **Passionately expanding knowledge** in Workflow Automation and Software Architecture
 
 ---
 
@@ -39,6 +39,7 @@
 
 ### 🤖 AI & Automation
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-%23FF6584.svg?style=for-the-badge&logo=n8n&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -61,7 +62,7 @@
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-%23F0F0F0.svg?style=for-the-badge&logo=cloudinary&logoColor=blue)  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### ☁️ Hosting Platforms
+### ☁️ Cloud & DevOps
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-%230B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)
 
 </div>
@@ -73,13 +74,13 @@
 <div align="center">
 
 ### 🔥 GitHub Stats
-![Dasun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dasundu&show_icons=true&theme=radical&count_private=true&hide=stars)
+![Dasun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dasundushmantha&show_icons=true&theme=radical&count_private=true&hide=stars)
 
 ### 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dasundu&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dasundushmantha&layout=compact&theme=radical)
 
 ### 📈 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dasundu&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dasundushmantha&theme=radical)
 
 </div>
 
