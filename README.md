@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm Dasun Athauda</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=500&lines=AI+Engineer+Intern;Software+Engineering+Undergraduate;Building+Agents+%26+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=500&lines=AI+Engineer+Intern;Software+Engineering+Undergraduate;Building+Agents+%26+Automation;Learning+DevOps+%26+Cloud" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -19,7 +19,7 @@
 - 🤖 **AI Engineer Intern** working with Agents and Automation
 - 🔭 **Working on** integrating AI agents into web applications
 - ☁️ **Currently learning** DevOps and Cloud technologies
-- 🎨 **Keen interest** in UI/UX Design and Workflow Automation
+- 🎨 **Keen interest** in AI integration and Workflow Automation
 
 ---
 
@@ -84,5 +84,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dasundushmantha&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=dasundu&color=blue" alt="Profile Views" />
 </div>
