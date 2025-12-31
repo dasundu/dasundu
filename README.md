@@ -19,7 +19,7 @@
 - 🤖 **AI Engineer Intern** working with Agents and Automation
 - 🔭 **Working on** integrating AI agents into web applications
 - ☁️ **Currently learning** DevOps and Cloud technologies
-- 📚 **Passionately expanding knowledge** in Workflow Automation and Software Architecture
+- 🎨 **Keen interest** in UI/UX Design and Workflow Automation
 
 ---
 
@@ -71,13 +71,13 @@
 <div align="center">
 
 ### 🔥 GitHub Stats
-![Dasun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dasundushmantha&show_icons=true&theme=radical&count_private=true&hide=stars)
+![Dasun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dasundu&show_icons=true&theme=radical&count_private=true&hide=stars)
 
 ### 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dasundushmantha&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dasundu&layout=compact&theme=radical)
 
 ### 📈 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dasundushmantha&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dasundu&theme=radical)
 
 </div>
 
