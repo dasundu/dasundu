@@ -16,7 +16,6 @@
 
 ## 👨‍💻 About Me
 - 🎓 **Software Engineering Undergraduate at SLIIT**
-- 🤖 **AI Engineer Intern** working with Agents and Automation
 - 🔭 **Working on** integrating AI agents into web applications
 - ☁️ **Currently learning** DevOps and Cloud technologies
 - 🎨 **Keen interest** in AI integration and Workflow Automation
