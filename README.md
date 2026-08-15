@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="About Me GIF" width="10%" style="display: block; margin: auto;"/>
   <br><br>
 </p>
-<h1 align="center">👋 Hi, I'm Dasun Athauda</h1>
+<h1 align="center">👋 Hi, I'm Dasun Dushmantha</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=500&lines=Software+Engineering+Undergraduate;Building+Ai+Agents+%26+Automation" alt="Typing SVG" />
