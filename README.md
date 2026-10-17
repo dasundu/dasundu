@@ -1,7 +1,9 @@
 <!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dasun%20Dushmantha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Agents%20%26%20Web%20Systems&descAlignY=58&descSize=18" alt="header" />
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="About Me GIF" width="10%" />
 </p>
+
+<h1 align="center">👋 Hi, I'm Dasun Dushmantha</h1>
 
 <p align="center">
   <a href="https://github.com/dasundu">
@@ -12,7 +14,6 @@
 <p align="center">
   <a href="mailto:dasunathauda99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/dasun-athauda"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=dasundu&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -23,24 +24,24 @@
 const dasun = {
   role:        "Full Stack Developer",
   education:   "BSc (Hons) Software Engineering — SLIIT (Undergraduate)",
-  building:    ["AI Agents", "Web Systems", "Workflow Automation"],
+  building:    ["AI Agents", "Web Systems"],
   focus:       "Integrating AI agents into real-world web applications",
-  learning:    ["DevOps", "Cloud Technologies"],
+  learning:    ["AI Engineering", "DevOps", "Cloud Technologies"],
   location:    "Sri Lanka 🇱🇰",
   motto:       "Bridging Software Engineering and Artificial Intelligence"
 };
 ```
 
-- 🤖 I build **AI Agents & Web Systems** that automate real work
+- 🤖 I build **AI Agents & Web Systems**
 - 🌐 Full stack development from UI to API to database
-- ☁️ Currently leveling up in **DevOps & Cloud**
-- 🤝 Open to collaborations, internships, and interesting projects
+- 🧠 Currently learning **AI Engineering**, **DevOps** & **Cloud**
+- 🤝 Open to collaborations and interesting projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-**🤖 AI & Automation**
+**🤖 AI**
 
 <p>
   <img src="https://skillicons.dev/icons?i=py" />
@@ -104,7 +105,6 @@ const dasun = {
   <i>"Building intelligent systems, one commit at a time."</i>
 </p>
 
-<!-- ===== FOOTER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
+  <img src="https://komarev.com/ghpvc/?username=dasundu&color=blue" alt="Profile Views" />
 </p>
