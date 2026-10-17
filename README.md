@@ -1,87 +1,110 @@
+<!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="About Me GIF" width="10%" style="display: block; margin: auto;"/>
-  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dasun%20Dushmantha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Agents%20%26%20Web%20Systems&descAlignY=58&descSize=18" alt="header" />
 </p>
-<h1 align="center">👋 Hi, I'm Dasun Dushmantha</h1>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=500&lines=Software+Engineering+Undergraduate;Building+Ai+Agents+%26+Automation" alt="Typing SVG" />
-</div>
 
 <p align="center">
-  🌍 Bridging the gap between Software Engineering and Artificial Intelligence
+  <a href="https://github.com/dasundu">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Software+Engineering+Undergraduate+%40+SLIIT+%F0%9F%8E%93;I+Build+AI+Agents+%26+Web+Systems+%F0%9F%A4%96;Turning+Ideas+into+Intelligent+Products+%E2%9A%A1" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:dasunathauda99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/dasun-athauda"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=dasundu&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 **Software Engineering Undergraduate at SLIIT**
-- 🔭 **Working on** integrating AI agents into web applications
-- ☁️ **Currently learning** DevOps and Cloud technologies
-- 🎨 **Keen interest** in AI integration and Workflow Automation
+## 🚀 About Me
+
+```js
+const dasun = {
+  role:        "Full Stack Developer",
+  education:   "BSc (Hons) Software Engineering — SLIIT (Undergraduate)",
+  building:    ["AI Agents", "Web Systems", "Workflow Automation"],
+  focus:       "Integrating AI agents into real-world web applications",
+  learning:    ["DevOps", "Cloud Technologies"],
+  location:    "Sri Lanka 🇱🇰",
+  motto:       "Bridging Software Engineering and Artificial Intelligence"
+};
+```
+
+- 🤖 I build **AI Agents & Web Systems** that automate real work
+- 🌐 Full stack development from UI to API to database
+- ☁️ Currently leveling up in **DevOps & Cloud**
+- 🤝 Open to collaborations, internships, and interesting projects
 
 ---
-
-## 📫 Contact
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-dasunathauda99%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:dasunathauda99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dasun%20Athauda-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dasun-athauda)
-
-</div>
-
-----
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+**🤖 AI & Automation**
 
-### 🤖 AI, Automation & Integrations
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=py" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="48" />
+</p>
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+**🌐 Frontend & Backend**
 
-### 📱 Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,tailwind,bootstrap" />
+</p>
 
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+**📱 Mobile**
 
-### 🧪 Testing & API Tools
-![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white) ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-%23E33332.svg?style=for-the-badge&logo=testing-library&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,kotlin" />
+</p>
 
-### 🧠 Design & Version Control
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-%23F0F0F0.svg?style=for-the-badge&logo=cloudinary&logoColor=blue)  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+**🗄️ Databases**
 
-### ☁️ Cloud & DevOps
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-%230B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-</div>
+**🧪 Testing, Tools & Design**
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,postman,git,github,figma" />
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" height="48" />
+</p>
 
-### 📊 GitHub Stats & Badges
+**☁️ Cloud & Deployment**
 
-<div align="center">
-
-### 🔥 GitHub Stats
-![Dasun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dasundu&show_icons=true&theme=radical&count_private=true&hide=stars)
-
-### 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dasundu&layout=compact&theme=radical)
-
-### 📈 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dasundu&theme=radical)
-
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="48" />
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dasundu&color=blue" alt="Profile Views" />
-</div>
+## 📊 GitHub Insights
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dasundu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasundu&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dasundu&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dasundu&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Building intelligent systems, one commit at a time."</i>
+</p>
+
+<!-- ===== FOOTER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
+</p>
