@@ -1,24 +1,19 @@
-@@ -1,46 +1,11 @@
 <!-- ===== HEADER ===== -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="About Me GIF" width="10%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Dasun Dushmantha</h1>
-## 🛠️ Tech Stack
 
 <p align="center">
   <a href="https://github.com/dasundu">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Software+Engineering+Undergraduate+%40+SLIIT+%F0%9F%8E%93;I+Build+AI+Agents+%26+Web+Systems+%F0%9F%A4%96;Turning+Ideas+into+Intelligent+Products+%E2%9A%A1" alt="Typing SVG" />
   </a>
 </p>
-**💻 Languages**
 
 <p align="center">
   <a href="mailto:dasunathauda99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/dasun-athauda"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,py,kotlin" />
 </p>
 
 ---
@@ -49,30 +44,41 @@ const dasun = {
 **🤖 AI**
 
 <p>
-@@ -52,7 +17,7 @@ const dasun = {
+  <img src="https://skillicons.dev/icons?i=py" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="48" />
+</p>
+
 **🌐 Frontend & Backend**
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,tailwind,bootstrap" />
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind,bootstrap" />
 </p>
 
 **📱 Mobile**
-@@ -64,7 +29,7 @@ const dasun = {
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,kotlin" />
+</p>
+
 **🗄️ Databases**
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 </p>
 
 **🧪 Testing, Tools & Design**
-@@ -78,33 +43,8 @@ const dasun = {
+
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,postman,git,github,figma" />
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" height="48" />
+</p>
+
 **☁️ Cloud & Deployment**
 
 <p>
   <img src="https://skillicons.dev/icons?i=vercel" />
-  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel" />
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="48" />
 </p>
 
