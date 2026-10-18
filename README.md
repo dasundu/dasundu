@@ -11,7 +11,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=py" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="48" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="48" />
 </p>
 
 **🌐 Frontend & Backend**
