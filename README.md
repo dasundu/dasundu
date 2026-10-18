@@ -1,3 +1,4 @@
+
 <!-- ===== HEADER ===== -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="About Me GIF" width="10%" />
@@ -52,7 +53,7 @@ const dasun = {
 **🌐 Frontend & Backend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,tailwind" />
 </p>
 
 **📱 Mobile**
@@ -78,7 +79,7 @@ const dasun = {
 **☁️ Cloud & Deployment**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vercel" />
+  <img src="https://skillicons.dev/icons?i=gcp,aws,vercel" />
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="48" />
 </p>
 
